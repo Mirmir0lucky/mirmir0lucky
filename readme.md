@@ -5,7 +5,6 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **BonFire & CraftHaven Minecraft Network**
 - 🌱 Learning **Kotlin & Java** & improving backend architecture skills
-- 💡 Interested in scalable systems, game servers, and APIs
 - 🌱 Interesten in large network systems, minigame servers, and their APIs
 - 📫 Reach me on **Discord: iammirmir**
 
