@@ -1,11 +1,10 @@
 <h1 align="center">Hey 👋, I'm Mirmir</h1>
-<h3 align="center">🚀 Backend Developer from Azerbaijan</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **BonFire Minecraft Network**
-- 🌱 Learning **Kotlin** & improving backend architecture skills
+- 🔭 Currently working on **BonFire & CraftHaven Minecraft Network**
+- 🌱 Learning **Kotlin & Java** & improving backend architecture skills
 - 💡 Interested in scalable systems, game servers, and APIs
 - 🌱 Interesten in large network systems, minigame servers, and their APIs
 - 📫 Reach me on **Discord: iammirmir**
@@ -14,7 +13,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://instagram.com/mirmir0kodla" target="blank">
+<a href="https://instagram.com/iammirmir" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirmir0kodla" height="30" width="40" />
 </a>
 </p>
