@@ -45,9 +45,6 @@
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
 <a href="https://www.blender.org/" target="_blank">
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
 </a>
