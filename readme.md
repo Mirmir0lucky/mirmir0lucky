@@ -59,4 +59,8 @@
 </p>
 
 ---
+###
+![snake gif](https://github.com/mirmir0lucky/mirmir0lucky/blob/output/github-snake-dark.svg)
 
+###
+---
