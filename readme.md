@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mirmir</h1>
 
----
-
 ### 👨‍💻 About Me
 
 * 🔭 Currently working on **BonFire & CraftHaven Minecraft Network**
